@@ -8,8 +8,9 @@ export default defineConfig({
   base: '/stackovia-vol02-frontend-nextjs/',
 
   head: [
-    ['meta', { name: 'author', content: 'Stackovia Learning Series' }],
+    ['meta', { name: 'author', content: 'Marcos Oliveira / Stackovia Learning Series' }],
     ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'Vol. 02 — Frontend com React e Next.js | Stackovia' }],
   ],
 
   themeConfig: {
@@ -19,6 +20,10 @@ export default defineConfig({
       { text: 'Início', link: '/' },
       { text: 'Guia do Volume', link: '/guia-do-volume' },
       { text: 'Capítulos', link: '/capitulos/cap01' },
+      {
+        text: 'Hub da Série',
+        link: 'https://mffdeo.github.io/stackovia-learning/',
+      },
     ],
 
     sidebar: [
@@ -44,16 +49,16 @@ export default defineConfig({
       provider: 'local',
     },
 
-    footer: {
-      message: 'Conteúdo licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. Código sob <a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>.',
-      copyright: 'Stackovia Learning Series',
-    },
-
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/mffdeo/stackovia-vol02-frontend-nextjs' },
+      {
+        icon: 'github',
+        link: 'https://github.com/mffdeo/stackovia-vol02-frontend-nextjs',
+      },
     ],
 
-    editLink: undefined,
-    lastUpdated: false,
+    footer: {
+      message: 'Conteúdo sob <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>. Código sob <a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a>.',
+      copyright: 'Stackovia Learning Series',
+    },
   },
 })
