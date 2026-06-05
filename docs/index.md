@@ -22,6 +22,8 @@ features:
     linkText: "Ler capítulo →"
   - title: "Cap. 02 — React: componentes, JSX e props"
     details: "Componente como unidade de interface reutilizável: recebe props, renderiza JSX. Props são o contrato entre quem usa e quem define o componente."
+    link: /capitulos/cap02
+    linkText: "Ler capítulo →"
   - title: "Cap. 03 — Estado e hooks"
     details: "Estado é a memória do componente. Quando o estado muda, o React re-renderiza o componente. O DOM atualiza como consequência — não como causa."
   - title: "Cap. 04 — Next.js App Router"
@@ -53,7 +55,7 @@ features:
 | Capítulo | Título | Status |
 |---|---|---|
 | Cap. 01 | Da intranet estática ao app: onboarding do V02 | ✅ Preview |
-| Cap. 02 | React: componentes, JSX e props | 🚧 Em produção |
+| Cap. 02 | React: componentes, JSX e props | ✅ Preview |
 | Cap. 03 | Estado e hooks: o IntraStack se torna interativo | 🚧 Em produção |
 | Cap. 04 | Next.js App Router: rotas, layouts e navegação | 🚧 Em produção |
 | Cap. 05 | TypeScript pragmático: tipar sem paralisar | 🚧 Em produção |

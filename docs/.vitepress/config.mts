@@ -41,6 +41,10 @@ export default defineConfig({
             text: 'Cap. 01 — Da intranet estática ao app',
             link: '/capitulos/cap01',
           },
+          {
+            text: 'Cap. 02 — React: componentes, JSX e props',
+            link: '/capitulos/cap02',
+          },
         ],
       },
     ],
