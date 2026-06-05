@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/Content-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-1%20cap%C3%ADtulo%20Preview-yellow)](https://mffdeo.github.io/stackovia-vol02-frontend-nextjs/)
+[![Status](https://img.shields.io/badge/Status-2%20cap%C3%ADtulos%20Preview-yellow)](https://mffdeo.github.io/stackovia-vol02-frontend-nextjs/)
 
 Do site estático ao app React/Next.js com componentes, rotas e portfólio publicado.
 
@@ -17,7 +17,8 @@ Do site estático ao app React/Next.js com componentes, rotas e portfólio publi
 | # | Título | Status |
 |---|---|---|
 | [01](docs/capitulos/cap01.md) | Da intranet estática ao app: onboarding do V02 | ✅ Preview |
-| 02–14 | (em produção) | 🚧 Em produção |
+| [02](docs/capitulos/cap02.md) | React: componentes, JSX e props | ✅ Preview |
+| 03–14 | (em produção) | 🚧 Em produção |
 
 ## Sobre este volume
 
