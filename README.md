@@ -18,7 +18,8 @@ Do site estático ao app React/Next.js com componentes, rotas e portfólio publi
 |---|---|---|
 | [01](docs/capitulos/cap01.md) | Da intranet estática ao app: onboarding do V02 | ✅ Preview |
 | [02](docs/capitulos/cap02.md) | React: componentes, JSX e props | ✅ Preview |
-| 03–14 | (em produção) | 🚧 Em produção |
+| [03](docs/capitulos/cap03.md) | Estado e hooks: o IntraStack se torna interativo | ✅ Preview |
+| 04–14 | (em produção) | 🚧 Em produção |
 
 ## Sobre este volume
 
