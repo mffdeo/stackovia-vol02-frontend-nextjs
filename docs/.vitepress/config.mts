@@ -45,6 +45,10 @@ export default defineConfig({
             text: 'Cap. 02 — React: componentes, JSX e props',
             link: '/capitulos/cap02',
           },
+          {
+            text: 'Cap. 03 — Estado e hooks',
+            link: '/capitulos/cap03',
+          },
         ],
       },
     ],

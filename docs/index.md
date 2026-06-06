@@ -26,6 +26,8 @@ features:
     linkText: "Ler capítulo →"
   - title: "Cap. 03 — Estado e hooks"
     details: "Estado é a memória do componente. Quando o estado muda, o React re-renderiza o componente. O DOM atualiza como consequência — não como causa."
+    link: /capitulos/cap03
+    linkText: "Ler capítulo →"
   - title: "Cap. 04 — Next.js App Router"
     details: "Cada pasta com page.tsx vira uma rota; layout.tsx define o wrapper compartilhado; Link mantém o estado da aplicação durante a navegação."
   - title: "Cap. 05 — TypeScript pragmático"
@@ -56,7 +58,7 @@ features:
 |---|---|---|
 | Cap. 01 | Da intranet estática ao app: onboarding do V02 | ✅ Preview |
 | Cap. 02 | React: componentes, JSX e props | ✅ Preview |
-| Cap. 03 | Estado e hooks: o IntraStack se torna interativo | 🚧 Em produção |
+| Cap. 03 | Estado e hooks: o IntraStack se torna interativo | ✅ Preview |
 | Cap. 04 | Next.js App Router: rotas, layouts e navegação | 🚧 Em produção |
 | Cap. 05 | TypeScript pragmático: tipar sem paralisar | 🚧 Em produção |
 | Cap. 06 | Tailwind e shadcn/ui: UI consistente e sistemática | 🚧 Em produção |
